@@ -14,6 +14,8 @@ security_ssh_allowed_groups: []
 
 security_sudoers_passwordless: []
 security_sudoers_passworded: []
+security_sudoers_passwordless_groups: []
+security_sudoers_passworded_groups: []
 
 security_autoupdate_enabled: true
 security_autoupdate_blacklist: []
